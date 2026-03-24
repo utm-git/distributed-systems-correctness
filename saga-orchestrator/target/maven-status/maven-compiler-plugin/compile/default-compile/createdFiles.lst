@@ -1,0 +1,5 @@
+com/distributedcorrectness/saga/ShippingService.class
+com/distributedcorrectness/saga/SagaApplication.class
+com/distributedcorrectness/saga/InventoryService.class
+com/distributedcorrectness/saga/OrderSagaService.class
+com/distributedcorrectness/saga/PaymentService.class
